@@ -1,0 +1,17 @@
+{
+  "name": "ton-xrocket-telegram-bot",
+  "version": "1.0.0",
+  "description": "Simple Telegram bot (telegraf) with XRocket TON payments",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "lowdb": "1.0.0",
+    "telegraf": "^4.12.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
